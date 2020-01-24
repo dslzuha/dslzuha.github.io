@@ -1,0 +1,20 @@
+{
+  "name": "@dslzuha/testpkg",
+  "version": "1.0.0",
+  "description": "info from the README",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dslzuha/dslzuha.github.io.git"
+  },
+  "author": "Dsl BD <zuha@dslbd.onmicrosoft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dslzuha/dslzuha.github.io/issues"
+  },
+  "homepage": "https://github.com/dslzuha/dslzuha.github.io#readme",
+  "keywords": []
+}
