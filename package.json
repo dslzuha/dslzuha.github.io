@@ -1,0 +1,23 @@
+{
+  "name": "dslzuha.github.io",
+  "version": "1.0.0",
+  "description": "[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdslzuha%2Fdslzuha.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdslzuha%2Fdslzuha.github.io?ref=badge_shield)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dslzuha/dslzuha.github.io.git"
+  },
+  "keywords": [],
+  "author": "Dsl BD <zuha@dslbd.onmicrosoft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dslzuha/dslzuha.github.io/issues"
+  },
+  "homepage": "https://github.com/dslzuha/dslzuha.github.io#readme"
+}
