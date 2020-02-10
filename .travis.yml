@@ -1,0 +1,7 @@
+language: ruby
+"os": [
+    "linux"
+  ]
+rvm:
+ - 2.2
+ - jruby
