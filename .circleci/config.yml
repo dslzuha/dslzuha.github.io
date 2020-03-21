@@ -11,3 +11,8 @@ workflows:
     # Run the welcome/run job in its own container
     jobs:
       - welcome/run
+      deploy-job:
+        steps:
+          - add_ssh_keys:
+             fingerprints:
+               - "ec:ae:85:eb:57:41:5f:d2:3c:c2:83:30:df:cf:b8:72"
