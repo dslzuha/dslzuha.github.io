@@ -63,7 +63,7 @@ Please read [CONTRIBUTING.md](https://github.com/dslzuha/dslzuha.github.io/blob/
 
 ## Versioning
 
-We use [BdDsl](http://dev.azure.com/bddsl/) for versioning. For the versions available, see the [tags on this repository](https://github.com/dslzuha/dslzuha.github.com/tags). 
+We use [BdDsl](http://dev.azure.com/bddsl/) for versioning. For the versions available, see the [tags on this repository](https://github.com/dslzuha/dslzuha.github.io/tags). 
 
 ## Authors
 
